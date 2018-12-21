@@ -19,6 +19,6 @@ This is an header
 ![](https://raw.githubusercontent.com/solomoni1/ssafy_sj/master/bell.jpg)
 
 |name|number|
-|----|------|
+|----|======|
 |SJ|01|
 |ssaffy|03|
